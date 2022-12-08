@@ -98,7 +98,8 @@ namespace tumakov
                 switch (num)
                 {
                     case 1:
-                        Point point = new Figure();
+                        Figure point = new Figure();
+                        
                         continue;
                 }
             }

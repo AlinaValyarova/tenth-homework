@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace Homework
 {
-    class BigRides : IBeach, IMousetrap, IFishingSeason, IPostmans, ISea, ISlides
+    class BigRides : IGames
     {
 
         public void Beach()
